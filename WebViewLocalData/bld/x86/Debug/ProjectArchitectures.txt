@@ -1,0 +1,2 @@
+C:\Users\kiseksen\Downloads\WebViewLocalData\NotifyComponent\NotifyComponent.vcxproj;x86
+C:\Users\kiseksen\Downloads\WebViewLocalData\WebViewLocalData\WebViewLocalData.jsproj;x86

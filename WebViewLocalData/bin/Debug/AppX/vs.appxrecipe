@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KIRIL-DESKTOP</Machine>
+    <WindowsUser>kiseksen</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9eadd5de-16c2-4d7e-81a9-94b058633581</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\kiseksen\Downloads\WebViewLocalData\WebViewLocalData\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>1A41037923FE8D4117D4F92051EAB54649D90ABDF8AC7AA51EE9B524653A4D54</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9eadd5de-16c2-4d7e-81a9-94b058633581_1.0.0.0_neutral__69y2p3dxt9ar8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9eadd5de-16c2-4d7e-81a9-94b058633581_69y2p3dxt9ar8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9eadd5de-16c2-4d7e-81a9-94b058633581</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=dhopt</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\kiseksen\Downloads\WebViewLocalData\WebViewLocalData\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-19T18:04:27.344</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Downloads\WebViewLocalData\WebViewLocalData\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2016-02-19T18:28:09.464</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Downloads\WebViewLocalData\WebViewLocalData\inPackage.html">
+      <PackagePath>inPackage.html</PackagePath>
+      <Modified>2016-02-19T17:50:31.849</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Downloads\WebViewLocalData\WebViewLocalData\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2016-02-19T17:50:32.002</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Downloads\WebViewLocalData\WebViewLocalData\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-19T17:50:32.018</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Downloads\WebViewLocalData\WebViewLocalData\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-19T17:50:32.018</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Downloads\WebViewLocalData\WebViewLocalData\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-19T17:50:32.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Downloads\WebViewLocalData\WebViewLocalData\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-19T17:50:32.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Downloads\WebViewLocalData\WebViewLocalData\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-19T17:50:32.065</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Downloads\WebViewLocalData\WebViewLocalData\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-19T17:50:32.086</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Downloads\WebViewLocalData\WebViewLocalData\inWebView.js">
+      <PackagePath>inWebView.js</PackagePath>
+      <Modified>2016-02-19T18:57:56.884</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Downloads\WebViewLocalData\WebViewLocalData\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2016-02-19T18:58:48.618</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Downloads\WebViewLocalData\WebViewLocalData\WinJS\js\en-US\ui.strings.js">
+      <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
+      <Modified>2016-02-19T17:50:32.935</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Downloads\WebViewLocalData\WebViewLocalData\WinJS\js\base.js">
+      <PackagePath>WinJS\js\base.js</PackagePath>
+      <Modified>2016-02-19T17:50:32.403</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Downloads\WebViewLocalData\WebViewLocalData\WinJS\js\ui.js">
+      <PackagePath>WinJS\js\ui.js</PackagePath>
+      <Modified>2016-02-19T17:50:32.888</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Downloads\WebViewLocalData\WebViewLocalData\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2016-02-19T17:50:31.986</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Downloads\WebViewLocalData\WebViewLocalData\WinJS\css\ui-dark.css">
+      <PackagePath>WinJS\css\ui-dark.css</PackagePath>
+      <Modified>2016-02-19T17:50:32.149</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Downloads\WebViewLocalData\WebViewLocalData\WinJS\css\ui-light.css">
+      <PackagePath>WinJS\css\ui-light.css</PackagePath>
+      <Modified>2016-02-19T17:50:32.165</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Downloads\WebViewLocalData\WebViewLocalData\WinJS\fonts\Symbols.ttf">
+      <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
+      <Modified>2016-02-19T17:50:32.187</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kiseksen\Downloads\WebViewLocalData\WebViewLocalData\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-02-19T18:04:27.260</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

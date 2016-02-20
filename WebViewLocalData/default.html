@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>WebViewLocalData</title>
+
+    <!-- WinJS references -->
+    <link href="WinJS/css/ui-light.css" rel="stylesheet" />
+    <script src="WinJS/js/base.js"></script>
+    <script src="WinJS/js/ui.js"></script>
+
+    <!-- WebViewLocalData references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+</head>
+<body class="win-type-body"
+      style="display: -ms-grid; -ms-grid-rows: 48px 144px 1fr; -ms-grid-columns: 1fr;">
+    <div style="-ms-grid-row: 1; -ms-grid-row-align: center; -ms-grid-column-align: center;">
+        <button id="saveButton">Write File to ms-localdata</button><button id="navigateButton">Open from local data. Click 'send message' to window.external.notify</button><button id="navigateInPackage">Open from package. Click 'send message' to window.external.notify</button><button id="injectComponent">Inject Compoenent</button>
+    </div>
+    <div id="logArea" style="-ms-grid-row: 2; background-color: lightblue; overflow-y: auto;"></div>
+    <x-ms-webview id="webView"
+                  style="-ms-grid-row: 3; height: 100%; width: 100%; background-color: lightgray;"></x-ms-webview>
+</body>
+</html>
